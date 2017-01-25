@@ -1,0 +1,42 @@
+main {
+  padding: 25%; 
+  font-size: 0;
+}
+
+.inner {
+  height: 200px;
+  width: 50%;
+  display: inline-block;
+  font-size: 0;
+  text-align: center; 
+}
+
+.outer {
+  height: 300px;
+  width: 33.33%;
+  margin: auto; 
+  display: inline-block;
+  font-size: 0;
+}
+
+.inner-one {
+   
+   background-color: blue;
+}
+
+.inner-two {
+  background-color: green;
+}
+
+.outer-three {
+  background-color: orange;
+}
+
+.outer-four {
+  background-color: red;
+}
+
+.outer-five {
+    background-color: black;
+  
+}
